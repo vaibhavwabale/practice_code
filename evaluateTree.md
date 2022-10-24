@@ -17,16 +17,22 @@ A leaf node is a node that has zero children.
 ### Test Cases:
 
 1:
+
 Input: root = [2,1,3,null,null,0,1]
+
 Output: true
+
 Explanation: The above diagram illustrates the evaluation process.
 The AND node evaluates to False AND True = False.
 The OR node evaluates to True OR False = True.
 The root node evaluates to True, so we return true.
 
 2:
+
 Input: root = [0]
+
 Output: false
+
 Explanation: The root node is a leaf node and it evaluates to false, so we return false.
  
 ### Code
