@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://user-images.githubusercontent.com/57138983/197483838-2d7ce3d6-8942-406b-be46-267bdff74505.png" alt="vaibhavwabale" /> 
+</p>
+
 # Binary Search Problems
 1. [Evaluate Boolean Binary Tree](https://github.com/vaibhavwabale/leetcode/blob/main/evaluateTree.md)
 2.
