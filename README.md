@@ -3,7 +3,7 @@
 
 # Binary Search Problems
 1. [Evaluate Boolean Binary Tree](https://github.com/vaibhavwabale/leetcode/blob/main/evaluateTree.md)
-2.
+2. [Find Target Indices After Sorting Array](https://github.com/vaibhavwabale/leetcode/blob/main/targetIndices.md)
 3.
 
 # Easy Problems
