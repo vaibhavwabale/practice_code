@@ -10,3 +10,6 @@
 2. [Two Sum](https://github.com/vaibhavwabale/leetcode/blob/main/twoSum.md)
 3. [Palindrome Number](https://github.com/vaibhavwabale/leetcode/blob/main/palindromeNumber.md)
 4. [Contains Duplicate](https://github.com/vaibhavwabale/leetcode/blob/main/containsDuplicate.md)
+
+# HackerRank Problems
+1. [Variable Sized Arrays](https://github.com/vaibhavwabale/practice_code/blob/main/Variable_Sized_Arrays.md)
