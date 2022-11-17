@@ -92,3 +92,26 @@ int main()
     cout<< "Sum = " << sum << endl;
 }
 ```
+
+## 5. Greatest of 2 Numbers
+
+### Code
+
+```c++
+#include<iostream>
+using namespace std;
+int main()
+{
+    int n1, n2;
+    cout<< "Enter a number" << endl;
+    cin>> n1 >> n2;
+
+    if (n1 > n2)
+        cout<< " " << n1 << " is Greater than " << n2 << endl;
+    else if(n2 > n1)
+        cout<< " " << n2 << " is Greater than " << n1 << endl;
+    else
+        cout<< "Both are equal" << endl;
+
+}
+```
