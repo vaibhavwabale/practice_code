@@ -23,3 +23,24 @@ int main()
     }
 }
 ```
+
+## 2. Check the number is even or odd
+
+### Code
+
+```c++
+#include<iostream>
+using namespace std;
+int main()
+{
+    int n;
+    cout<< "Enter a number" << endl;
+    cin>>n;
+
+    if( n % 2 == 0)
+        cout<< "The Number is Even" << endl;
+    else
+        cout<< "The Number is Odd" << endl;
+
+}
+```
