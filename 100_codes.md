@@ -68,3 +68,27 @@ int main()
     cout<< "Sum = " << sum << endl;
 }
 ```
+
+## 4. Sum of Numbers in a Given Interval
+
+### Code
+
+```c++
+#include<iostream>
+using namespace std;
+int main()
+{
+    int n1, n2;
+    
+    cout<< "Enter a number1 and number2" << endl;
+    cin>>n1>>n2;
+
+    int sum = 0;
+    
+    for(int i = n1; i <= n2; i++)
+    {
+        sum = sum + i;
+    }
+    cout<< "Sum = " << sum << endl;
+}
+```
