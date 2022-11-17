@@ -44,3 +44,27 @@ int main()
 
 }
 ```
+
+## 3. Sum of N Natural Numbers
+
+### Code
+
+```c++
+#include<iostream>
+using namespace std;
+int main()
+{
+    int n;
+    
+    cout<< "Enter a number" << endl;
+    cin>>n;
+
+    int sum = 0;
+    
+    for(int i = 1; i <= n; i++)
+    {
+        sum = sum + i;
+    }
+    cout<< "Sum = " << sum << endl;
+}
+```
