@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "v:/Codes",
-      "program": "v:/Codes/build/Debug/outDebug",
+      "cwd": "c:/Users/Raja/OneDrive/Documents/GitHub/practice_code",
+      "program": "c:/Users/Raja/OneDrive/Documents/GitHub/practice_code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
